@@ -18,10 +18,17 @@ The distribution of files is as follows:
 
 ## Example
 Original grayscale image
-[!image](https://github.com/hvalayer/Poisson-disk-sampling/blob/master/images/gray_img.png)
+
+![gray_img](https://github.com/hvalayer/Poisson-disk-sampling/assets/98541826/5c1de816-04f5-46da-a69b-385ca0e1db04)
+
 Derived density map
-[!density map](https://github.com/hvalayer/Poisson-disk-sampling/blob/master/images/density_map.png)
+
+![density_map](https://github.com/hvalayer/Poisson-disk-sampling/assets/98541826/598dabc3-2661-4ab4-8e15-8a58ef919821)
+
 Final result with 200 000 points
-[!result_200k](https://github.com/hvalayer/Poisson-disk-sampling/blob/master/images/result_200k.png)
+
+![result_200k](https://github.com/hvalayer/Poisson-disk-sampling/assets/98541826/7afd2f93-9588-4ac7-a47c-46e33854b490)
+
 Final result with 500 000 points
-[!result_500k](https://github.com/hvalayer/Poisson-disk-sampling/blob/master/images/result_500k.png)
+
+![result_500k](https://github.com/hvalayer/Poisson-disk-sampling/assets/98541826/68b51035-a3a1-424c-a8b5-8d7e8c35953d)
